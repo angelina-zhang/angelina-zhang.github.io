@@ -31,43 +31,41 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
-  medium:            # https://medium.com/@{your url slug} 
-  x-twitter:   # https://x.com/{your url slug} 
-  threads:            # https://threads.net/@{your url slug} 
-  instragram:       # https://instagram.com/{your url slug} 
-  youtube:           # https://youtube.com/@{your url slug} 
-  discord:            # https://discord.com/users/{your url slug} 
-  bluesky:           # https://bsky.app/profile/{your url slug} 
+  linkedin: test    # https://www.linkedin.com/in/angelina-zhang11
+  #github: leea12    # https://github.com/{your url slug} 
+  #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  #medium:            # https://medium.com/@{your url slug} 
+  #x-twitter:   # https://x.com/{your url slug} 
+  #threads:            # https://threads.net/@{your url slug} 
+  #instragram:       # https://instagram.com/{your url slug} 
+  #youtube:           # https://youtube.com/@{your url slug} 
+  #discord:            # https://discord.com/users/{your url slug} 
+  #bluesky:           # https://bsky.app/profile/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
+  - category: Coding
+    tools:
+    - ROS
+    - Python
+    - C++
+    - C
+    - HTML
+    - CSS
+    - JAVA
+    - Mathworks
   - category: 3D Modeling
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
+    - Fusion
   - category: Prototyping
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
+    - Sheet Metal Manipulation
+    - Milling
+    - Lathe
     - Laser Cutting
     - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - Arduino / Raspberry Pi   
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14
