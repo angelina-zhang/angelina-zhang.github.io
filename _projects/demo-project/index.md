@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: DexFruit
+description:  My project uses the DenseTact, a novel optical tactile sensor developed by the ARMLab, to accurately predict microforces in order to dexterously handle delicate fruits including raspberries and blueberries. After training a ResNet model on a dataset of images and forces, the densetact can predict forces. 
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
-  - Welding
-  - Metal forming
-  - Thermal simulation
+  - Sensor Integration
+  - Convolutional Neural Networks
+  - CAD
 
 main-image: /project2.jpg
 ---
