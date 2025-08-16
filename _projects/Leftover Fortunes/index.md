@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Super Heavy Booster Catch (Demo Only)
