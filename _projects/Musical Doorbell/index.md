@@ -7,5 +7,5 @@ skills:
   - Laser Cutting
   - Prototyping
 
-main-image: /doorbell.png
+main-image: /doorbell.jpg
 ---
