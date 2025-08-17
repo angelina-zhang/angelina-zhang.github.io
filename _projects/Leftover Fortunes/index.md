@@ -10,9 +10,10 @@ skills:
   - Lathe
   - Sheet metal manipulation
 
+main-image: /tissue_box.jpg
 ---
-### Timeline: 6 weeks
+### Timeline: *6 weeks*
 ---
 
-main-image: /tissue_box.jpg
+
 ---
