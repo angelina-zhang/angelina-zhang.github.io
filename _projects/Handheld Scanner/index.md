@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Sonos Teardown
-description: Conducted detailed teardown analysis of Sonos Era speaker, documenting internal components, driver configuration, and PCB design. Created technical documentation with photos and assembly insights for engineering reference. 
+title: Handheld Scanner
+description: : The handhled scanner consists of livox LiDAR and HIKRobot camera. We designed and tested a data acquisition pipeline for a multi-sensor scanning device, ensuring temporal data integrity for post-processing and 3D mapping with real time location and clock on state of art NVIDIA Jetson NX.
 skills: 
-  - drumel
-  - microprobing
-  - Electronics Teardown
-  - PCB analysis
-  - audio system design
+  - PTP Time synchornization
+  - GPS + PPS
+  - ROS
+  - UI/UX Design
 
-main-image: /sonos.png
+main-image: /scanner.jpeg
 ---
 
 # This is another demo

@@ -1,11 +1,18 @@
 ---
 layout: post
 title: Leftover Fortunes
-description:  As a lifelong musician, I wanted to build something to redesign the experience of knocking on a doorbell. Taking apart a xylophone, our team transformed the scale of a xylophone into physical space and incorporated a scotch yoke with a piston behind.
+description:  This is a tissue box that aims to evoke the same sensation of pulling a fortune of cookie as you pulling a tissue out of this bronze cast cookie that is blessing you with good health.
 skills: 
   - CAD
-  - Laser Cutting
-  - Prototyping
+  - Sand casting
+  - Laser cutting
+  - Milling
+  - Lathe
+  - Sheet metal manipulation
 
-main-image: /tissu_box.jpeg
+---
+### Timeline: 6 weeks
+---
+
+main-image: /tissue_box.jpeg
 ---
