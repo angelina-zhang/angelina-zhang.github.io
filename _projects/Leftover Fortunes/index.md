@@ -14,5 +14,5 @@ skills:
 ### Timeline: 6 weeks
 ---
 
-main-image: /tissue_box.jpeg
+main-image: /tissue_box.jpg
 ---
