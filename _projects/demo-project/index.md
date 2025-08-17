@@ -7,7 +7,7 @@ skills:
   - Convolutional Neural Networks
   - CAD
 
-main-image: /project2.jpg
+main-image: /poster.jpg
 ---
 
 ---
