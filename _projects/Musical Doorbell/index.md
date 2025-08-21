@@ -10,7 +10,7 @@ skills:
 
 main-image: /doorbell.jpg
 ---
-
+### Embeed images
 {% include image-gallery.html images="prototype1.jpg" height="400" %} 
 {% include image-gallery.html images="prototype2.png" height="400" %} 
 {% include image-gallery.html images="prototype3.jpg" height="400" %} 
