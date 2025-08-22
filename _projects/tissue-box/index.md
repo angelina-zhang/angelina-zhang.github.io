@@ -8,12 +8,13 @@ skills:
   - Laser cutting
   - Milling
   - Lathe
-  - Sheet metal manipulation
+  - Sheet metal manipulation 
+  - Prototypiing
 
-main-image: /tissue_box.jpg
+main-image: /restaurant.jpg
 ---
-### Timeline: *6 weeks*
+## Timeline: 6 weeks
 ---
-
-
+## Final
+{% include image-gallery.html images="sideright.jpg, front.jpg, isoright.jpg" height="400" %} 
 ---
