@@ -40,5 +40,6 @@ I used CAD to design my whole assembly, using the form for patternmaking and san
 
 ---
 ## Link to Full Portfolio
+[Full Portfolio](https://en.wikipedia.org)
 
 
