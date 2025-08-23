@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Musical Doorbell
-description:  Redesigning the experience of knocking on a doorbell. Taking apart a xylophone and transforming the scale of a xylophone into physical space and incorporated a scotch yoke with a piston behind.
+description:  Redesigning the experience of knocking on a doorbell, transforming the scale of a xylophone into physical space.
 skills: 
   - CAD
   - Laser Cutting
@@ -12,6 +12,12 @@ main-image: /doorbell.jpg
 ---
 ## Timeline: 8 weeks
 ---
+
+---
+## Goals: 
+As a lifelong musician, I wanted to take sound apart and move it into space. Incorporating two different mechanisms, a scotch yoke and piston, I aimed to combine my interests into this design project.
+---
+
 ## Prototypes
 Starting from inspiration pictures of old fashioned doorknocking systems and paper cardboard prototype, we tested and improved our design. Building our project to be more 3D, we incorporated a xylophone staircase that seperates the experience of being on the receiving end and the front side.
 
