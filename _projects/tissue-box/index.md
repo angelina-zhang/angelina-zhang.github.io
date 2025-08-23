@@ -11,10 +11,10 @@ skills:
   - Sheet metal manipulation 
   - Prototypiing
 
-main-image: /restaurant.jpg
+main-image: /Restaurant_Curtain.png
 ---
 ## Timeline: 6 weeks
 ---
 ## Final
-{% include image-gallery.html images="sideright.jpg, front.jpg, isoright.jpg" height="400" %} 
+{% include image-gallery.html images="sideright.png, front.png, isoright.png" height="400" %} 
 ---

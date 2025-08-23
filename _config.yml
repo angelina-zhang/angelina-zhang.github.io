@@ -15,7 +15,7 @@ title: Angelina Zhang's Portfolio # This is what shows up in the tab of the brow
 name: Angelina Zhang
 headline: Engineer, Problem Solver, Maker
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a Stanford student studying Mechanical Engineering with minors in Computer Science and Music. With a strong foundation in robotics and mechanical design, I thrive on turning ideas into reality through hands-on prototyping and fabrication. My mission is to create immersive, multi-sensory experiences that enrich lives, harmonizing the realms of technology and creativity.
+  I am a Stanford student studying Mechanical Engineering with minors in Computer Science and Music. With a strong foundation in robotics and an interdisciplinary background, I thrive on turning ideas into reality through hands-on prototyping and fabrication. My mission is to create immersive, multi-sensory experiences that enrich lives, harmonizing the realms of technology and creativity.
   
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -74,13 +74,14 @@ formspree-key:   https://formspree.io/f/{8-digit key}
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
 colors: # this is the basic theme
-  text: "#2d2926"
-  border: "#f7f3e3"
-  link: "#ffc94d"
-  highlight: "#ffb800"
-  background: "#fffdf5"
-  light_background: "#fff9e6"
+  text: "#1a1c20"
+  border: "#ddd"
+  link: "#4a76ee"
+  highlight: "#0c0cf2"
+  background: "#ffffff"
+  light_background: "#f3f5fb"
   
+
 # A few examples. 
 basic theme:
   text: "#1a1c20"
