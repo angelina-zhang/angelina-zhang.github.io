@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Musical Doorbell
-description:  As a lifelong musician, I intended to build something to redesign the experience of knocking on a doorbell. Taking apart a xylophone, our team transformed the scale of a xylophone into physical space and incorporated a scotch yoke with a piston behind.
+description:  Redesigning the experience of knocking on a doorbell. Taking apart a xylophone and transforming the scale of a xylophone into physical space and incorporated a scotch yoke with a piston behind.
 skills: 
   - CAD
   - Laser Cutting

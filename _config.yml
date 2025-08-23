@@ -13,11 +13,10 @@ title: Angelina Zhang's Portfolio # This is what shows up in the tab of the brow
 
 # Hero Section
 name: Angelina Zhang
-headline: headline message
+headline: Engineer, Problem Solver, Maker
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Stanford student studying Mechanical Engineering with minors in Computer Science and Music. With a strong foundation in robotics and mechanical design, I thrive on turning ideas into reality through hands-on prototyping and fabrication. My mission is to create immersive, multi-sensory experiences that enrich lives, harmonizing the realms of technology and creativity.
+  
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -78,7 +77,7 @@ colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
   link: "#4a76ee"
-  highlight: "#0c0cf2"
+  highlight: "#ebd8a4"
   background: "#ffffff"
   light_background: "#f3f5fb"
 
