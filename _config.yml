@@ -15,7 +15,7 @@ title: Angelina Zhang's Portfolio # This is what shows up in the tab of the brow
 name: Angelina Zhang
 headline: Engineer, Problem Solver, Maker
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  I am a Stanford student studying Mechanical Engineering with minors in Computer Science and Music. With a strong foundation in robotics and an interdisciplinary background, I thrive on turning ideas into reality through hands-on prototyping and fabrication. My mission is to create immersive, multi-sensory experiences that enrich lives, harmonizing the realms of technology and creativity.
+  I am a Stanford student studying Mechanical Engineering with minors in Computer Science and Music. With an interdisciplinary background and a strong passion for robotics, I thrive on turning ideas into reality through hands-on prototyping and fabrication. My mission is to create immersive, multi-sensory experiences that enrich lives, harmonizing the realms of technology and creativity.
   
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
@@ -30,7 +30,7 @@ resume-url: https://docs.google.com/document/d/1s1g9xDZ81_Dg9RFSZ3kAPqexh8tinD9m
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/angelina-zhang11
+  linkedin: angelina-zhang11    # https://www.linkedin.com/in/angelina-zhang11
   #github: leea12    # https://github.com/{your url slug} 
   #stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   #medium:            # https://medium.com/@{your url slug} 

@@ -18,7 +18,7 @@ main-image: /zoom.png
 ---
 
 ## Goals: 
-The concept of a fortune cookie tissue box emerged during a brainstorming session with my roommate  I chose to incorporate a takeout box and fortune cookies, two Americanized symbols of Chinese Culture and I resonate with this feeling of existing in this in-between space that integraates western and asian culture, which I waned this product to express in a playful yet personal way.
+The concept of a fortune cookie tissue box emerged during a conversation with my roommate about elevating the experience of dealing with runny noses. I decided to combine the imagery of a takeout box and fortune cookies, two Americanized symbols of Chinese culture, to reflect my own experience of existing in the intersection of Western and Asian cultures. I wanted this product to express that blend in a playful yet personal way."
 
 --- 
 
@@ -27,8 +27,10 @@ The concept of a fortune cookie tissue box emerged during a brainstorming sessio
 <span style="font-size: 10px">Paper Prototype, Cardboard Prototype, Critical Part</span>  
 
 ---
-## Processes
-I used CAD to design my whole assembly, using the form for patternmaking and sand casting and the measurements to verify turning on the lathe for the handle. I used the metal laser cutter and fingerbrake for the sheet metal box and I used the mill to create precise holes to align the parts I created. Finishing the project, I used the table router and band saw to create a wooden base and spent too much time sanding the fortune cookies to mirror finish.
+## Fabrication
+
+### Casting
+For the f employing forms to create the organic shape of the fortune cookie for patternmaking and sand casting while using measurements to ensure accurate turning on the lathe for the handle. For the sheet metal box, I operated a metal laser cutter and finger brake, and I used the mill to create precise holes for aligning the parts. To complete the project, I crafted a wooden base with a table router and band saw, dedicating considerable time to sanding the fortune cookies to a mirror finish.
 
 {% include image-gallery.html images="laser.jpg, lathe.jpg, mill.jpg" height="400" %} 
 <span style="font-size: 10px">Metal laser cutter, Turning Handle, Mill</span>  
