@@ -18,7 +18,7 @@ main-image: /zoom.png
 ---
 
 ## Goals: 
-The idea of a fortune cookie tissue box sprang to my mind during brainstorming with my roommate about our issues, one being having to constantly blow her nose. I chose to incorporate a takeout box and fortune cookies, two Americanized symbols of Chinese Culture and I resonate with this feeling of existing in this in-between space that integraates western and asian culture, which I waned this product to express in a playful yet personal way.
+The concept of a fortune cookie tissue box emerged during a brainstorming session with my roommate  I chose to incorporate a takeout box and fortune cookies, two Americanized symbols of Chinese Culture and I resonate with this feeling of existing in this in-between space that integraates western and asian culture, which I waned this product to express in a playful yet personal way.
 
 --- 
 
@@ -40,6 +40,6 @@ I used CAD to design my whole assembly, using the form for patternmaking and san
 
 ---
 ## Link to Full Portfolio
-[Full Portfolio](https://en.wikipedia.org)
+[Full Portfolio](https://drive.google.com/drive/folders/1uJiokBllaLbiWTB0X-K2q96ZOTQEeyXr?usp=sharing)
 
 
