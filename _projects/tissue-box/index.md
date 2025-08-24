@@ -23,18 +23,19 @@ The concept of a fortune cookie tissue box emerged during a conversation with my
 --- 
 
 ## Prototypes
-{% include image-gallery.html images="paper.jpeg, cardboard.jpeg, metal.jpeg" height="400" %} 
+{% include image-gallery.html images="paper.jpeg, cardboard.jpeg, front.png" height="400" %} 
 <span style="font-size: 10px">Paper Prototype, Cardboard Prototype, Critical Part</span>  
 
 ---
 ## Fabrication
 
-### Casting
+### *Casting*
 For the fortune cookies, I used forms to create the organic shape of the fortune cookie and 3D printed the pattern. The cookies are fabricated through sandcasting and made of bronze. 
 
-### Turning (Lathe) and Milling
+### *Turning (Lathe) and Milling*
 
-### Sheet Metal Manipulation
+
+### *Sheet Metal Manipulation*
 for patternmaking and sand casting while using measurements to ensure accurate turning on the lathe for the handle. For the sheet metal box, I operated a metal laser cutter and finger brake, and I used the mill to create precise holes for aligning the parts. To complete the project, I crafted a wooden base with a table router and band saw, dedicating considerable time to sanding the fortune cookies to a mirror finish.
 
 {% include image-gallery.html images="laser.jpg, lathe.jpg, mill.jpg" height="400" %} 
@@ -43,10 +44,10 @@ for patternmaking and sand casting while using measurements to ensure accurate t
 
 ---
 ## Results
-{% include image-gallery.html images="sideright.png, front.png, isoright.png" height="400" %} 
+{% include image-gallery.html images="sideright.png, restaurant.jpg, isoright.png" height="400" %} 
 
 ---
-## Link to Full Portfolio
-[Full Portfolio](https://drive.google.com/drive/folders/1uJiokBllaLbiWTB0X-K2q96ZOTQEeyXr?usp=sharing)
+## Full Portfolio
+[Link to Full Portfolio](https://drive.google.com/drive/folders/1uJiokBllaLbiWTB0X-K2q96ZOTQEeyXr?usp=sharing)
 
 
