@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Musical Doorbell
-description:  Redesigning the experience of knocking on a doorbell, transforming the scale of a xylophone into physical space.
+description:  Reimagining the doorbell experience by translating the scale of a xylophone into a tangible physical form
 skills: 
   - CAD
   - Laser Cutting
@@ -13,13 +13,12 @@ main-image: /doorbell.jpg
 ## Timeline: 8 weeks
 ---
 
----
 ## Goals: 
-As a lifelong musician, I wanted to take sound apart and move it into space. Incorporating two different mechanisms, a scotch yoke and piston, I aimed to combine my interests into this design project.
+As a lifelong musician, I have always been fascinated by the intricacies of sound and its relationship with physical space.  This passion inspired me to explore sound in a new dimension by integrating two distinct mechanisms, a scotch yoke and a piston. Through this design project, I sought to merge my backgrounds in music and engineering. My team created an innovative experience that not only disassembles sound but also transforms it into a captivating spatial form.
 ---
 
 ## Prototypes
-Starting from inspiration pictures of old fashioned doorknocking systems and paper cardboard prototype, we tested and improved our design. Building our project to be more 3D, we incorporated a xylophone staircase that seperates the experience of being on the receiving end and the front side.
+Starting from inspiration designs of old fashioned doorknocking systems and a paper cardboard prototype, we tested and improved our design. Building our project to expand further spacially, we incorporated a xylophone staircase that seperates the experience of being on the receiving end and the front side of a doorbell.
 
 {% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="400" %} 
 <span style="font-size: 10px">Cardboard Prototype, Critical Mechanism, Proof of Concept, Final Product</span>  
