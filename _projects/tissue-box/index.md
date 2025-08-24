@@ -30,7 +30,12 @@ The concept of a fortune cookie tissue box emerged during a conversation with my
 ## Fabrication
 
 ### Casting
-For the fortune cookies, I used employing forms to create the organic shape of the fortune cookie for patternmaking and sand casting while using measurements to ensure accurate turning on the lathe for the handle. For the sheet metal box, I operated a metal laser cutter and finger brake, and I used the mill to create precise holes for aligning the parts. To complete the project, I crafted a wooden base with a table router and band saw, dedicating considerable time to sanding the fortune cookies to a mirror finish.
+For the fortune cookies, I used forms to create the organic shape of the fortune cookie and 3D printed the pattern. The cookies are fabricated through sandcasting and made of bronze. 
+
+### Turning (Lathe) and Milling
+
+### Sheet Metal Manipulation
+for patternmaking and sand casting while using measurements to ensure accurate turning on the lathe for the handle. For the sheet metal box, I operated a metal laser cutter and finger brake, and I used the mill to create precise holes for aligning the parts. To complete the project, I crafted a wooden base with a table router and band saw, dedicating considerable time to sanding the fortune cookies to a mirror finish.
 
 {% include image-gallery.html images="laser.jpg, lathe.jpg, mill.jpg" height="400" %} 
 <span style="font-size: 10px">Metal laser cutter, Turning Handle, Mill</span>  
