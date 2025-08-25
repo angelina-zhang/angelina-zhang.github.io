@@ -44,7 +44,7 @@ for patternmaking and sand casting while using measurements to ensure accurate t
 
 ---
 ## Results
-{% include image-gallery.html images="sideright.png, restaurant.jpg, isoright.png" height="400" %} 
+{% include image-gallery.html images="sideright.png, cropped.png, isoright.png" height="400" %} 
 
 ---
 ## Full Portfolio
