@@ -8,7 +8,7 @@ skills:
   - ROS 1, ROS 2
   - CAD
 
-main-image: /poster.jpg
+main-image: /main.jpeg
 ---
 ## Timeline: 10 weeks
 
@@ -22,13 +22,12 @@ In this project, I aimed to use the DenseTact, an innovative optical tactile sen
 
 ---
 ## Results
-
-
-
+{% include image-gallery.html images="poster.jpg" height="1000" %} 
 
 ---
 ## Link to Full Project
 This project was continued and developed into Dexterous Manipulation and Gaussian Splatting Inspection of Fruit.
+[Link to Full Portfolio](https://drive.google.com/drive/folders/1uJiokBllaLbiWTB0X-K2q96ZOTQEeyXr?usp=sharing)
 
 
 
