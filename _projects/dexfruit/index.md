@@ -17,12 +17,15 @@ main-image: /main.jpeg
 In this project, I aimed to use the DenseTact, an innovative optical tactile sensor developed by the ARMLab (Assistive Robotics and Manipulation Lab), to accurately predict microforces for dexterous handling of delicate fruits such as raspberries and blueberries. 
 
 ---
-## Model Performance
-<iframe src="https://drive.google.com/file/d/1J8svM3Iv_9r-DsKq98Knq_pFBnRWNFZV/preview" width="640" height="360" allow="autoplay"></iframe>
+## Model Performance on Raspberry
+I trained a custom resnet 18 model on a dataset I collected of over 10000 images from the densetact and forces from an ATI sensor. Then, after successfully detecting microforces, I integrated the densetact with a robotiq gripper and Kinova Gen3 arm and used a PID control loop to handle the fruit without exceeding the force threshold.
+<iframe src="https://drive.google.com/file/d/1J8svM3Iv_9r-DsKq98Knq_pFBnRWNFZV/preview" width="480" height="270" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1nWpgymwc7xt0btdbDuK2IKqhcj8B8MKg/preview" width="480" height="270" allow="autoplay"></iframe>
+
 
 ---
 ## Results
-{% include image-gallery.html images="poster.jpg" height="1000" %} 
+{% include image-gallery.html images="poster.jpg" height="1200" %} 
 
 ---
 ## Link to Full Project
