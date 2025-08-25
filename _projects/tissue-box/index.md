@@ -12,7 +12,7 @@ skills:
   - Woodworking
   - Prototypiing
 
-main-image: /tixxue_box.jpg
+main-image: /tissue_box.jpg
 ---
 ## Timeline: 6 weeks
 ---
