@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Musical Doorbell
-description:  Reimagining the experience of knocking on a door by translating the scale of a xylophone into a tangible physical form
+description:  Reimagining door-knocking, translating the scale of a xylophone into a tangible physical form
 skills: 
   - CAD
   - Laser Cutting
@@ -14,12 +14,12 @@ main-image: /doorbell.jpg
 ---
 
 ## Goals: 
-As a lifelong musician, I have always been fascinated by the intricacies of sound and its relationship with physical space.  This passion inspired me to explore sound in a new dimension by integrating two distinct mechanisms, a scotch yoke and a piston. Through this design project, I sought to merge my backgrounds in music and engineering. My team created an innovative experience that not only disassembles sound but also transforms it into a captivating spatial form.
+As a lifelong musician, I have always been fascinated by the intricacies of sound and its relationship with physical space, so when tasked with creating a doorknocking system, I encouraged my team to explore sound in a new dimension by integrating two distinct mechanisms, a scotch yoke and a piston. We created an innovative experience that not only disassembles sound but also transforms it into a captivating spatial form.
 
 ## Prototypes
-Starting from inspiration designs of old fashioned doorknocking systems and a paper cardboard prototype, we tested and improved our design. Building our project to expand further spacially, we incorporated a xylophone staircase that seperates the experience of being on the receiving end and the front side of a doorbell.
+Starting from inspiration designs of old fashioned doorknocking systems and a paper cardboard prototype, we tested and improved our design. Building our project to expand further spacially, we incorporated a xylophone staircase that seperates the experience of being on the inside and outside of a door.
 
-{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="400" %} 
+{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="200" %} 
 <span style="font-size: 12px">Cardboard Prototype, Critical Mechanism, Proof of Concept, Final Product</span>  
 
 
@@ -31,7 +31,8 @@ We performed an FEA Simulation on our frame to optimize the deisgn. We improved 
 
 ---
 ## Results
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example*: https://www.youtube.com/watch?v={**z7mD3xWDB9s**}
+Through this design project, I merged my backgrounds in music and engineering to create a satisfying doorknocker (watch with sound on!)
+
 {% include youtube-video.html id="z7mD3xWDB9s" autoplay="false" %}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+{% include youtube-video.html id="poyc-zIYoAI" autoplay="false" %}
+{% include youtube-video.html id="sZ-A1cjdlRU" autoplay = "true" %}
