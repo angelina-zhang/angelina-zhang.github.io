@@ -1,23 +1,52 @@
 {% assign image_paths = include.images | split: ", " %}
 {% assign gallery_height = include.height | default: "300" %}
+{% assign use_carousel = include.carousel | default: false %}
 
-<div class="image-gallery" style="--gallery-height: {{ gallery_height }}px;">
-  {% for image_path in image_paths %}
-      {% assign image_name = image_path | strip %}
-      {% if image_name contains 'https://' %}
+{% if use_carousel %}
+  <div class="custom-carousel" style="max-width:{{ gallery_height | times: 1.5 }}px;">
+    <button class="carousel-arrow left" onclick="carouselPrev(this)">&#8592;</button>
+    <div class="carousel-images">
+      {% for image_path in image_paths %}
+        {% assign image_name = image_path | strip %}
+        {% if image_name contains 'https://' %}
           <img 
-              src="{{ image_name }}"
-              alt="Web image"
-              loading="lazy"
+            src="{{ image_name }}"
+            alt="Web image"
+            loading="lazy"
+            style="height:{{ gallery_height }}px; display: {% if forloop.first %}block{% else %}none{% endif %}; border-radius: 16px;"
           />
-      {% else %}
+        {% else %}
           {% assign page_url_without_index = page.url | remove: 'index' | remove: '.html' %}
           <img 
-              src="{{ page_url_without_index }}{{ image_name }}" 
-              alt="{{image_name}}"
-              loading="lazy"
-              onerror="this.onerror=null;this.src=this.src.replace('.webp','.png').replace('.png','.webp');"
+            src="{{ page_url_without_index }}{{ image_name }}" 
+            alt="{{image_name}}"
+            loading="lazy"
+            style="height:{{ gallery_height }}px; display: {% if forloop.first %}block{% else %}none{% endif %}; border-radius: 16px;"
           />
+        {% endif %}
+      {% endfor %}
+    </div>
+    <button class="carousel-arrow right" onclick="carouselNext(this)">&#8594;</button>
+  </div>
+{% else %}
+  <div class="image-gallery" style="--gallery-height: {{ gallery_height }}px;">
+    {% for image_path in image_paths %}
+      {% assign image_name = image_path | strip %}
+      {% if image_name contains 'https://' %}
+        <img 
+          src="{{ image_name }}"
+          alt="Web image"
+          loading="lazy"
+        />
+      {% else %}
+        {% assign page_url_without_index = page.url | remove: 'index' | remove: '.html' %}
+        <img 
+          src="{{ page_url_without_index }}{{ image_name }}" 
+          alt="{{image_name}}"
+          loading="lazy"
+          onerror="this.onerror=null;this.src=this.src.replace('.webp','.png').replace('.png','.webp');"
+        />
       {% endif %}
-  {% endfor %}
-</div>
+    {% endfor %}
+  </div>
+{% endif %}

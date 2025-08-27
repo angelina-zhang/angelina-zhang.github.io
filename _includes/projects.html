@@ -24,3 +24,22 @@
 
 
  </section>
+
+<script>
+function carouselPrev(btn) {
+  const container = btn.closest('.custom-carousel');
+  const images = container.querySelectorAll('.carousel-images img');
+  let current = Array.from(images).findIndex(img => img.style.display === 'block');
+  images[current].style.display = 'none';
+  current = (current - 1 + images.length) % images.length;
+  images[current].style.display = 'block';
+}
+function carouselNext(btn) {
+  const container = btn.closest('.custom-carousel');
+  const images = container.querySelectorAll('.carousel-images img');
+  let current = Array.from(images).findIndex(img => img.style.display === 'block');
+  images[current].style.display = 'none';
+  current = (current + 1) % images.length;
+  images[current].style.display = 'block';
+}
+</script>
