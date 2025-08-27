@@ -8,7 +8,7 @@ skills:
   - ROS
   - UI/UX Design
 
-main-image: /hh.png
+main-image: /HH_expanded.png
 ---
 {% include image-gallery.html images="all_prototypes.jpg" height="500" %} 
 # More coming soon !
