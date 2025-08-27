@@ -3,7 +3,8 @@
 {% assign use_carousel = include.carousel | default: false %}
 
 {% if use_carousel %}
-  <div class="custom-carousel" style="max-width:{{ gallery_height | times: 1.5 }}px;">
+  {% assign gallery_max_width = gallery_height | times: 1.5 %}
+  <div class="custom-carousel" style="max-width:{{ gallery_max_width }}px;">
     <button class="carousel-arrow left" onclick="carouselPrev(this)">&#8592;</button>
     <div class="carousel-images">
       {% for image_path in image_paths %}
