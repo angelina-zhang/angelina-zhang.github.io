@@ -947,3 +947,63 @@ footer p {
       
 }
 
+/* CAROUSEL STYLES */
+.custom-carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 1em;
+}
+
+.custom-carousel .carousel-images {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.custom-carousel .carousel-images img {
+  max-width: 100%;
+  max-height: 300px;
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  display: block;
+}
+
+/* Overlapping Carousel Arrows */
+.custom-carousel .carousel-arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 2;
+  background: rgba(255,255,255,0.85);
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  font-size: 32px;
+  color: #333;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: background 0.2s, border 0.2s;
+  padding: 0;
+}
+
+.custom-carousel .carousel-arrow.left {
+  left: 10px;
+}
+
+.custom-carousel .carousel-arrow.right {
+  right: 10px;
+}
+
+.custom-carousel .carousel-arrow:hover {
+  background: #f0f0f0;
+  border-color: #888;
+}
+
