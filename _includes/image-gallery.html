@@ -5,8 +5,8 @@
 {% if use_carousel %}
   {% assign gallery_max_width = gallery_height | times: 1.5 %}
   <div class="custom-carousel" style="max-width:{{ gallery_max_width }}px;">
-    <button class="carousel-arrow left" onclick="carouselPrev(this)">&#8592;</button>
     <div class="carousel-images">
+      <button class="carousel-arrow left" onclick="carouselPrev(this)">&#8592;</button>
       {% for image_path in image_paths %}
         {% assign image_name = image_path | strip %}
         {% if image_name contains 'https://' %}
@@ -26,8 +26,8 @@
           />
         {% endif %}
       {% endfor %}
+      <button class="carousel-arrow right" onclick="carouselNext(this)">&#8594;</button>
     </div>
-    <button class="carousel-arrow right" onclick="carouselNext(this)">&#8594;</button>
   </div>
 {% else %}
   <div class="image-gallery" style="--gallery-height: {{ gallery_height }}px;">
