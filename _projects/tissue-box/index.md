@@ -42,8 +42,7 @@ To ensure that all my parts lined up, I used the gate and runner on the cast pie
 
 ### *Final Touches*
  I crafted a wooden base with a table router and band saw and sanded the cookies and handles to mirror finish.
-
-{% include image-gallery.html images="cope.jpeg, lathe.jpg, laser.jpg, mill.jpg, wood.jpeg" height="300" %} 
+{% include image-gallery.html images="cope.jpeg, lathe.jpg, laser.jpg, mill.jpg, wood.jpeg" height="300" carousel=true %} 
 <span style="font-size: 10px">Sand Molds for Cast Pieces, Turning on the Lathe, Metal Laser Cutter, Mill Set Up, Wooden Base</span>  
 
 
