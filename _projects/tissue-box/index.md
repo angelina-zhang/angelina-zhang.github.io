@@ -17,7 +17,7 @@ main-image: /tissue_box_zoom.png
 ## Timeline: 6 weeks
 ---
 
-## Goals: 
+## Inspiration: 
 The concept of a fortune cookie tissue box emerged during a conversation with my roommate about elevating the experience of dealing with runny noses, so I decided to create a delightful tissue box cover. I also decided to incorporate a takeout box and fortune cookies, two Americanized symbols of Chinese culture, to reflect my own experience of existing in the intersection of Western and Asian cultures in a playful yet personal way.
 
 --- 

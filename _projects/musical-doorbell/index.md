@@ -13,7 +13,7 @@ main-image: /doorbell.jpg
 ## Timeline: 8 weeks
 ---
 
-## Goals: 
+## Inspiration: 
 As a lifelong musician, I have always been fascinated by the intricacies of sound and its relationship with physical space, so when tasked with creating a doorknocking system, I encouraged my team to explore sound in a new dimension by integrating two distinct mechanisms, a scotch yoke and a piston. We created an innovative experience that not only disassembles sound but also transforms it into a captivating spatial form.
 
 ## Prototypes
