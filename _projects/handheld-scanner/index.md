@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Handheld Scanner
-description:  The handheld scanner consists of livox LiDAR and HIKRobot camera. We designed and tested a data acquisition pipeline for a multi-sensor scanning device, ensuring temporal data integrity for post-processing and 3D mapping with true time and location.
+title: Handheld Scanner 
+description:  Designing a handheld scanner with LiDAR and camera for accurate 3D mapping and data acquisition
 skills: 
   - PTP Time synchronization
   - GPS + PPS
@@ -10,10 +10,33 @@ skills:
 
 main-image: /HH_expanded.png
 ---
-<!-- {% include image-gallery.html images="all_prototypes.jpg" height="500" %}  -->
+## Timeline: 10 weeks 
+---
 
-<!-- Carousel version for testing -->
-{% include image-gallery.html images="hh_prototypes.png, hh.png" height="1000" carousel=true %}
+## Goals: 
+We aimed to create a transportable device that could run SLAM. 
 
-# More coming soon !
+--- 
+
+## Prototypes
+{% include image-gallery.html images="hh_transparent.png, hh.png" height="1000" carousel=true %} 
+
+With each design
+
+---
+
+## Software Design
+{% include image-gallery.html images="flowchart.jpg, rqt_graph.png" height="1000"%}  
+[Github Link](https://github.com/alimuratov/handheld_scanner)
+
+
+---
+## Results
+The handheld scanner was succesfully deployed at the MTR, Hong Kong's rapid transit system for data collection. 
+{% include image-gallery.html images="person_demo.png, isoside.png, isoleft.png. isofront.png, isoright.png" height="1000" carousel=true %} 
+
+
+
+
+
 
