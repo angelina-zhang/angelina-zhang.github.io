@@ -13,7 +13,7 @@ main-image: /HH_expanded.png
 <!-- {% include image-gallery.html images="all_prototypes.jpg" height="500" %}  -->
 
 <!-- Carousel version for testing -->
-{% include image-gallery.html images="all_prototypes.jpg, HH_expanded.png" height="500" carousel=true %}
+{% include image-gallery.html images="hh_prototypes, hh.png" height="500" carousel=true %}
 
 # More coming soon !
 
