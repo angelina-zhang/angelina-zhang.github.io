@@ -1007,3 +1007,11 @@ footer p {
   border-color: #888;
 }
 
+.image-gallery {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px; /* optional: space between images */
+  margin-bottom: 1em;
+}
+
