@@ -25,7 +25,7 @@ I trained a custom resnet 18 model on a dataset I collected of over 10000 images
 
 ---
 ## Results
-{% include image-gallery.html images="poster.jpg" height="1400" %} 
+{% include image-gallery.html images="poster.jpg" height="1700" %} 
 
 ---
 ## Link to Full Project
