@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leftover Fortunes 
-description: An adorned tissue box that bestows predictions of good health for users
+description: Designing an adorned tissue box holder
 skills: 
   - CAD
   - Sand casting
@@ -10,7 +10,7 @@ skills:
   - Lathe
   - Sheet metal manipulation 
   - Woodworking
-  - Prototypiing
+  - Prototyping
 
 main-image: /tissue_box_zoom.png
 ---

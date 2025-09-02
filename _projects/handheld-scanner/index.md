@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Handheld Scanner 
-description:  Designing a handheld scanner with LiDAR and camera for accurate 3D mapping and data acquisition
+description:  Building a handheld scanner with LiDAR and camera for accurate 3D mapping and data acquisition
 skills: 
+  - Sensor Integration
   - PTP, NTP Time synchronization
   - GPS + PPS
   - ROS
