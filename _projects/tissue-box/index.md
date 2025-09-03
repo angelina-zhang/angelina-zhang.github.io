@@ -48,7 +48,7 @@ To ensure that all my parts lined up, I used the gate and runner on the cast pie
 
 ---
 ## Results
-{% include image-gallery.html images="sideright.png, cropped.png, isoright.png" height="400" carousel=true %} 
+{% include image-gallery.html images="sideright.png, cropped.png, isoright.png" height="500" carousel=true %} 
 
 ---
 ## Full Portfolio
