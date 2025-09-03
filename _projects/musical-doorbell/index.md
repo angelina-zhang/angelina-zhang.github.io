@@ -19,13 +19,13 @@ As a lifelong musician, I have always been fascinated by the intricacies of soun
 ## Prototypes
 Starting from inspiration designs of old fashioned doorknocking systems and a paper cardboard prototype, we tested and improved our design. Building our project to expand further spacially, we incorporated a xylophone staircase that seperates the experience of being on the inside and outside of a door.
 
-{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="t00", carousel=true%} 
+{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="500", carousel=true%} 
 <span style="font-size: 12px">Cardboard Prototype, Critical Mechanism, Proof of Concept, Final Product</span>  
 
 
 ---
 ## FEA Simulation on Frame
-{% include image-gallery.html images="FEA1.png, FEA2.png" height="400" %} 
+{% include image-gallery.html images="FEA1.png, FEA2.png" height="400", carousel=true %} 
 We performed an FEA Simulation on our frame to optimize the deisgn. We improved upon the original frame by removing areas with less concentrated stresses, minimizing material while maintaining low stress and a high factor of safety at the concentrated points identified from the first simulation. 
 
 
