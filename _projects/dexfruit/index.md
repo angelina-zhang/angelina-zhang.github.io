@@ -30,7 +30,7 @@ I trained a custom resnet 18 model on a dataset I collected of over 10000 images
 ---
 ## Link to Full Project
 This project was continued and developed into Dexterous Manipulation and Gaussian Splatting Inspection of Fruit.
-[Link to Full Portfolio](https://drive.google.com/drive/folders/1uJiokBllaLbiWTB0X-K2q96ZOTQEeyXr?usp=sharing)
+
 
 
 
