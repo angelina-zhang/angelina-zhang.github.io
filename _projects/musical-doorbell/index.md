@@ -19,7 +19,8 @@ As a lifelong musician, I have always been fascinated by the intricacies of soun
 ## Prototypes
 Starting from inspiration designs of old fashioned doorknocking systems and a paper cardboard prototype, we tested and improved our design. Building our project to expand further spacially, we incorporated a xylophone staircase that seperates the experience of being on the inside and outside of a door.
 
-{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="500", carousel=true%} 
+{% include image-gallery.html images="prototype1.jpg, prototype2.png, prototype3.jpg, doorbell.jpg" height="500" carousel=true%} 
+
 <span style="font-size: 12px">Cardboard Prototype, Critical Mechanism, Proof of Concept, Final Product</span>  
 
 
