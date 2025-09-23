@@ -38,6 +38,7 @@ The handheld scanner was succesfully deployed at the MTR, Hong Kong's rapid tran
 {% include image-gallery.html images="person_demo.png, isoside.png, isoleft.png, isofront.png, isoright.png" height="1000" carousel=true %} 
 
 Demonstration of running slam from GUI
+
 <iframe src="https://drive.google.com/file/d/1hjIvHKZorncHmtXH37AVJojll0PGSFzZ/preview" width="480" height="270" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1GEZ_oqobBLQ5CEFwXgkpNcO2FDHVcpkT/preview" width="480" height="270" allow="autoplay"></iframe>
 
