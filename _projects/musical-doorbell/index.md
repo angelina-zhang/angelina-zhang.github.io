@@ -26,7 +26,7 @@ Starting from inspiration designs of old fashioned doorknocking systems and a pa
 
 ---
 ## FEA Simulation on Frame
-{% include image-gallery.html images="FEA1.png, FEA2.png" height="400", carousel=true %} 
+{% include image-gallery.html images="FEA1.png, FEA2.png" height="400" carousel=true %} 
 We performed an FEA Simulation on our frame to optimize the deisgn. We improved upon the original frame by removing areas with less concentrated stresses, minimizing material while maintaining low stress and a high factor of safety at the concentrated points identified from the first simulation. 
 
 
